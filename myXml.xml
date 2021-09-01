@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<data>
+
+  <client>
+    <name>James</name>
+    <phone>11-2222-3333</phone>
+    <email>test@example.com</email>
+    <city>London</city>
+  </client>
+
+  <client>
+    <name>Midori</name>
+    <phone>44-5555-6666</phone>
+    <email>myemail@test.com</email>
+    <city>New York</city>
+  </client>
+
+  <client>
+    <name>Tom</name>
+    <phone>99-0000-1111</phone>
+    <email>email@ex.com</email>
+    <city>Melbourne</city>
+  </client>
+
+  <client>
+    <name>Jimmy</name>
+    <phone>55-6666-7777</phone>
+    <email>test@envat.com</email>
+    <city>California</city>
+  </client>
+
+  <client>
+    <name>Luci</name>
+    <phone>333-4444-5552</phone>
+    <email>test@luc.com</email>
+    <city>Texas</city>
+  </client>
+  
+  
+
+</data>
